@@ -1,8 +1,7 @@
 # 2025_AWS-DeepRacer_NTUT_第8組
 
-> Reinforcement learning strategies for AWS DeepRacer — from stable baseline to sub-9 second laps on the re:Invent 2018 track.
-
-本倉庫記錄了使用 **強化學習（Reinforcement Learning）** 技術，在 AWS DeepRacer 模擬器中針對 re:Invent 2018 賽道所進行的多階段訓練過程，最終成功達成 **單圈低於 9 秒** 的高速完賽模型。
+>This project applies reinforcement learning strategies to AWS DeepRacer — starting from a stable baseline model and progressively achieving sub-9 second lap times on the re:Invent 2018 track, with detailed records of each training stage.
+>本專案應用於 AWS DeepRacer 的強化學習策略 — 從穩定的基準模型出發，最後逐步達成 re:Invent 2018 賽道的單圈低於 9 秒表現，並詳細記錄了逐步訓練過程。
 
 ---
 
