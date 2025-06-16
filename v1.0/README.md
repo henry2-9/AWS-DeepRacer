@@ -67,6 +67,8 @@
 
 ### 🧠 使用的獎勵函數（v1.0）
 
+-使用預設範例程式[保持在邊線內]之獎勵函數
+
 ```python
 def reward_function(params):
     all_wheels_on_track = params['all_wheels_on_track']
